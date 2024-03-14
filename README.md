@@ -4,4 +4,4 @@ This repository contains the material for the Whisper (transcription) workshop f
 There are no expectations for previous experience with transcription, digital tools or ucloud.
 
 ## Workshop
-There will be a hands-on exercise where participants can try Whisper. It will be possible to practice with a test sound clip that can be found in the Data folder.
+There will be a hands-on exercise where participants can try Whisper. It will be possible to practice with a test sound clip that can be found in the Data folder. It is therefore not a requirement to have a sound clip available in order to participate

@@ -1,5 +1,5 @@
 # Fra Tale Til Tekst
-## Introduction
+## Introduktion
 Dette repository indeholder materialet til transskriberingsworkshoppen (Fra Tale til Tekst) udarbejdet af AU Library ved Det Kgl. Bibliotek. Formålet med workshoppen er at anvende digitale værktøjer til at transformere lyd om til tekst. Workshoppen beskæftiger sig med OpenAI's Whisper model, der hostes i UCloud. Derudover fokuserer workshoppen på best practices i forbindelse med bådde transskribering og anvendelsen af digitale værktøjer til databearbejdelse. Det er ingen krav for eller forventning om tidligere erfaring med hverken transskribering, digitale værktøjer eller UCloud i forbindelse med deltagelse i workshoppen.
 
 ## Workshop
